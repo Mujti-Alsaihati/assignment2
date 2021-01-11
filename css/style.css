@@ -71,7 +71,19 @@
         animation-name: fadeInOut;
         animation-duration: 1s;
         animation-iteration-count: infinite;
+        animation-timing-function: linear;
+    }
+
+    @keyframes fadeInOut{
+        from{
+            opacity: 0;
         }
+        to{
+            opacity: 1;
+        }
+
+
+    }
 
     .pic3{
         display: block;
