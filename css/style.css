@@ -62,6 +62,14 @@
     height:auto;
     animation: pics 5s ease-in-out infinite;
     }
+    .pic2{
+        display: block;
+        margin-left: over;
+        margin-right: over;
+        max-width: 30vw;
+        height:auto;
+        animation: pics 5s ease-in-out infinite;
+        }
 
     .pic3{
         display: block;
