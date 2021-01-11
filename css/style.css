@@ -60,7 +60,6 @@
     margin-right: auto;
     max-width: 30vw;
     height:auto;
-    animation: pics 5s ease-in-out infinite;
     }
     .pic2{
         display: block;
@@ -91,5 +90,4 @@
         margin-right: auto;
         max-width: 30vw;
         height:40vw;
-        animation: pics 5s ease-in-out infinite;
         }
