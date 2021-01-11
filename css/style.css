@@ -4,6 +4,7 @@
   body {
     margin: 0;
   }
+
   .slide {
     width: 100vw;
     height: 100vh;
@@ -50,8 +51,14 @@
   .four {
     background: #00dfdf;
   }
+  .center1{
+      text-align: center;
+      font-family: 'Yeon Sung', cursive;
+
+  }
   .center {
     text-align: center;
+    font-family: 'MuseoModerno', cursive;
   }
 
   .pic{
