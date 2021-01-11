@@ -77,6 +77,7 @@
         display: block;
         margin-left: over;
         margin-right: over;
+        position: absolute;
         max-width: 30vw;
         height:auto;
         animation-name: fadeInOut;
