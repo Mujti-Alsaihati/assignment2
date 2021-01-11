@@ -74,19 +74,6 @@
         animation-timing-function: linear;
     }
 
-    .pic2-1{
-        display: block;
-        margin-left: over;
-        margin-right: over;
-        position: absolute;
-        max-width: 30vw;
-        height:auto;
-        animation-name: fadeInOut;
-        animation-duration: 1s;
-        animation-iteration-count: infinite;
-        animation-timing-function: linear;
-    }
-
     @keyframes fadeInOut{
         from{
             opacity: 0;
