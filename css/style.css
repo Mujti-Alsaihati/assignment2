@@ -65,6 +65,7 @@
         display: block;
         margin-left: over;
         margin-right: over;
+        position: relative;
         max-width: 30vw;
         height:auto;
         animation-name: fadeInOut;
