@@ -68,7 +68,9 @@
         margin-right: over;
         max-width: 30vw;
         height:auto;
-        animation: pics 5s ease-in-out infinite;
+        animation-name: fadeInOut;
+        animation-duration: 1s;
+        animation-iteration-count: infinite;
         }
 
     .pic3{
