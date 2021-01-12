@@ -75,7 +75,7 @@
         max-width: 30vw;
         height:auto;
         animation-name: fadeInOut;
-        animation-duration: 1s;
+        animation-duration: 3s;
         animation-iteration-count: infinite;
         animation-timing-function: linear;
     }
