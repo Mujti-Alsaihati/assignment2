@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Mujti-Alsaihati.github.io"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Mujti-Alsaihati.github.io/assignment1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assignment2"
+	}
+}
